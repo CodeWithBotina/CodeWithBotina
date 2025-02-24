@@ -24,12 +24,11 @@ Aquí están algunas de las tecnologías con las que trabajo o estoy aprendiendo
 
 ---
 
-### 🌱 Proyectos Destacados  
-Aquí puedes mostrar algunos de tus proyectos más importantes:  
+### 🌱 Mis Primeros Proyectos   
 
-- [Nombre del Proyecto 1](enlace) - Breve descripción.  
-- [Nombre del Proyecto 2](enlace) - Breve descripción.  
-- [Nombre del Proyecto 3](enlace) - Breve descripción.  
+- [GameOfLife]([enlace](https://github.com/CodeWithBotina/GameOfLife)) - El proyecto implementa el Juego de la Vida de Conway, un autómata celular ideado por el matemático británico John Horton Conway en 1970.  
+- [El_Secreto_de_la_Mansion_Oscura]([enlace](https://github.com/CodeWithBotina/El_Secreto_de_la_Mansion_Oscura)) - Juego de misterio y deducción desarrollado en Python.
+ 
 
 ---
 
