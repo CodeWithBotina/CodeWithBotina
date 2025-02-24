@@ -26,8 +26,8 @@ Aquí están algunas de las tecnologías con las que trabajo o estoy aprendiendo
 
 ### 🌱 Mis Primeros Proyectos   
 
-- [GameOfLife]([enlace](https://github.com/CodeWithBotina/GameOfLife)) - El proyecto implementa el Juego de la Vida de Conway, un autómata celular ideado por el matemático británico John Horton Conway en 1970.  
-- [El_Secreto_de_la_Mansion_Oscura]([enlace](https://github.com/CodeWithBotina/El_Secreto_de_la_Mansion_Oscura)) - Juego de misterio y deducción desarrollado en Python.
+- [GameOfLife](https://github.com/CodeWithBotina/GameOfLife) - El proyecto implementa el Juego de la Vida de Conway, un autómata celular ideado por el matemático británico John Horton Conway en 1970.  
+- [El_Secreto_de_la_Mansion_Oscura](https://github.com/CodeWithBotina/El_Secreto_de_la_Mansion_Oscura) - Juego de misterio y deducción desarrollado en Python.
  
 
 ---
@@ -35,10 +35,9 @@ Aquí están algunas de las tecnologías con las que trabajo o estoy aprendiendo
 ### 📫 Contáctame  
 ¡Me encantaría conectarme contigo! Puedes contactarme a través de:  
 
-- 📧 Email: [tuemail@example.com](mailto:tuemail@example.com)  
-- 💼 LinkedIn: [Diego Alejandro Botina](enlace)  
-- � Twitter: [@CodeWithBotina](enlace)  
-- 🌐 Sitio Web: [www.codewithbotina.com](enlace)  
+- 📧 Email: [CodeWithBotina@gmail.com](CodeWithBotina@gmail.com)
+- 🌐 Instagram: [CodeWithBotina](https://www.instagram.com/codewithbotina/)
+- 🚀 Youtube: [CodeWithBotina](https://www.tiktok.com/@codewithbotina)
 
 ---
 
