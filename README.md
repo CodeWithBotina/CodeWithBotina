@@ -1,4 +1,4 @@
-![CodeWithBotina Logo](https://i.imgur.com/IFEp4pV.png)
+![CodeWithBotina Logo](https://i.imgur.com/oxWXKSH.png)
 # ¡Hola, soy Diego Alejandro Botina! 👋  
 ### Alias: **CodeWithBotina**  
 #### Ingeniero de Software | Desarrollador de Software Comercial | Apasionado por la Tecnología  
