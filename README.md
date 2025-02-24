@@ -1,16 +1,61 @@
-## Hi there 👋
+# ¡Hola, soy Diego Alejandro Botina! 👋  
+### Alias: **CodeWithBotina**  
+#### Ingeniero de Software | Desarrollador de Software Comercial | Apasionado por la Tecnología  
 
-<!--
-**CodeWithBotina/CodeWithBotina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👨‍💻 Sobre mí  
+¡Hola! Soy **Diego Alejandro Botina**, un ingeniero de software colombiano con una carrera técnica en sistemas informáticos. Me apasiona el desarrollo de software y estoy emocionado de ser parte de este mundo tecnológico. Mi objetivo es crear soluciones innovadoras y construir una comunidad gigante alrededor del desarrollo de software.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌍 Soy de **Colombia**.  
+- � Actualmente estoy aprendiendo y mejorando mis habilidades en desarrollo de software.  
+- 🎯 Mi meta es contribuir a la comunidad de desarrolladores y crear proyectos que impacten positivamente.  
+
+---
+
+### 🛠️ Tecnologías y Herramientas  
+Aquí están algunas de las tecnologías con las que trabajo o estoy aprendiendo:  
+
+- **Lenguajes de Programación**: JavaScript, Python, Java, C#  
+- **Desarrollo Web**: HTML, CSS, React, Node.js  
+- **Bases de Datos**: MySQL, MongoDB  
+- **Herramientas**: Git, GitHub, Visual Studio Code, Docker  
+- **Otros**: Scrum, Metodologías Ágiles  
+
+---
+
+### 🌱 Proyectos Destacados  
+Aquí puedes mostrar algunos de tus proyectos más importantes:  
+
+- [Nombre del Proyecto 1](enlace) - Breve descripción.  
+- [Nombre del Proyecto 2](enlace) - Breve descripción.  
+- [Nombre del Proyecto 3](enlace) - Breve descripción.  
+
+---
+
+### 📫 Contáctame  
+¡Me encantaría conectarme contigo! Puedes contactarme a través de:  
+
+- 📧 Email: [tuemail@example.com](mailto:tuemail@example.com)  
+- 💼 LinkedIn: [Diego Alejandro Botina](enlace)  
+- � Twitter: [@CodeWithBotina](enlace)  
+- 🌐 Sitio Web: [www.codewithbotina.com](enlace)  
+
+---
+
+### 🚀 Mis Metas  
+- Crear una comunidad grande y colaborativa alrededor del desarrollo de software.  
+- Aprender y compartir conocimientos sobre las últimas tecnologías.  
+- Contribuir a proyectos de código abierto.  
+
+---
+
+### ⭐ Estadísticas de GitHub  
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=CodeWithBotina&show_icons=true&theme=dark)  
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithBotina&layout=compact&theme=dark)  
+
+---
+
+### 📌 Frase Motivadora  
+> "El software es una combinación de arte y lógica. ¡Siempre hay algo nuevo por aprender y crear!"  
+
