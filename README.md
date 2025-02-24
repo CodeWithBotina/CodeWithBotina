@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/oxWXKSH.png" alt="CodeWithBotina Logo" width="500">
+  <img src="https://i.imgur.com/oxWXKSH.png" alt="CodeWithBotina Logo" width="250">
 </p>
 
 # ¡Hola, soy Diego Alejandro Botina! 👋  
