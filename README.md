@@ -37,7 +37,7 @@ Aquí están algunas de las tecnologías con las que trabajo o estoy aprendiendo
 
 - 📧 Email: [CodeWithBotina@gmail.com](CodeWithBotina@gmail.com)
 - 🌐 Instagram: [CodeWithBotina](https://www.instagram.com/codewithbotina/)
-- 🚀 Youtube: [CodeWithBotina](https://www.tiktok.com/@codewithbotina)
+- 🚀 Tiktok: [CodeWithBotina](https://www.tiktok.com/@codewithbotina)
 
 ---
 
