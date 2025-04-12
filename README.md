@@ -32,6 +32,7 @@ Aquí están algunas de las tecnologías con las que trabajo o estoy aprendiendo
 
 - [GameOfLife](https://github.com/CodeWithBotina/GameOfLife) - El proyecto implementa el Juego de la Vida de Conway, un autómata celular ideado por el matemático británico John Horton Conway en 1970.  
 - [El_Secreto_de_la_Mansion_Oscura](https://github.com/CodeWithBotina/El_Secreto_de_la_Mansion_Oscura) - Juego de misterio y deducción desarrollado en Python.
+- [Math_Solver_ChatBot](https://github.com/CodeWithBotina/math-solver-chatbot) - Aplicación web interactiva diseñada para facilitar la resolución de problemas matemáticos a través de una interfaz de chatbot.
  
 
 ---
