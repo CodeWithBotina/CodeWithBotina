@@ -1,84 +1,110 @@
-<p align="center">
-  <img src="https://i.imgur.com/oxWXKSH.png" alt="CodeWithBotina Logo" width="250">
-</p>
-
-<h1 align="center">Diego Alejandro Botina</h1>
-<h3 align="center">Software Engineer | Commercial Developer | Technology Enthusiast</h3>
+# Diego Alejandro Botina
+## Software Engineer | Commercial Developer | Technology Enthusiast
 
 ---
 
-### 👨‍💻 Professional Profile  
-Colombian software engineer with technical training in computer systems. Passionate about building innovative solutions and fostering developer communities. Committed to continuous learning and impactful project development.
+### Professional Summary
 
-- 🌍 Based in **Colombia**  
-- 🔭 Currently expanding expertise in full-stack development  
-- 🚀 Focused on creating scalable commercial solutions  
-- 🌱 Building collaborative developer communities  
+I am Diego Alejandro Botina, a passionate Colombian software engineer with comprehensive technical training in computer systems and a proven track record of building innovative solutions across multiple programming paradigms. My expertise spans full-stack development, algorithm implementation, and interactive application design, with a strong focus on creating scalable commercial solutions while fostering collaborative developer communities.
+
+Currently based in Colombia, I am expanding my expertise in full-stack development while actively contributing to open-source projects and building tools that bridge theoretical computer science concepts with practical, real-world implementations.
 
 ---
 
-### 🛠️ Technical Expertise  
-#### Core Competencies  
-**Programming Languages**  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)
+### Technical Portfolio & Repository Analysis
 
-**Web Development**  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+#### **Core Development Projects**
 
-**Databases & Tools**  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+**🎮 Game of Life Implementation**
+- **Repository**: [GameOfLife](https://github.com/CodeWithBotina/GameOfLife)
+- **Technologies**: Python, PyGame
+- **Impact**: Demonstrates mastery of cellular automaton algorithms and complex pattern simulation
+- **Key Achievement**: Successfully implemented Conway's Game of Life, showcasing understanding of emergent systems and computational biology concepts
 
-**Methodologies**  
-![Agile](https://img.shields.io/badge/-Agile-009688?logo=agile&logoColor=white)
-![Scrum](https://img.shields.io/badge/-Scrum-6DB33F?logo=scrum&logoColor=white)
+**🕵️ El Secreto de la Mansión Oscura (Mansion Mystery)**
+- **Repository**: [El_Secreto_de_la_Mansion_Oscura](https://github.com/CodeWithBotina/El_Secreto_de_la_Mansion_Oscura)
+- **Technologies**: Python
+- **Impact**: Interactive text-based deduction game with complex storytelling mechanics
+- **Key Achievement**: Created an engaging narrative-driven application that demonstrates advanced programming logic and user interaction design
+
+**🧮 Math Solver Chatbot**
+- **Repository**: [math-solver-chatbot](https://github.com/CodeWithBotina/math-solver-chatbot)
+- **Technologies**: JavaScript, React, Web Technologies
+- **Impact**: Educational tool providing mathematical problem-solving through conversational UI
+- **Key Achievement**: Successfully integrated mathematical computation with modern web frameworks, creating an accessible learning platform
 
 ---
 
-### 💻 Featured Projects
+### Technical Expertise Matrix
 
-| Project | Description | Technologies |
-|---------|-------------|--------------|
-| **[Game of Life](https://github.com/CodeWithBotina/GameOfLife)** | Conway's cellular automaton implementation demonstrating complex emergent patterns | Python, PyGame |
-| **[Mansion Mystery](https://github.com/CodeWithBotina/El_Secreto_de_la_Mansion_Oscura)** | Text-based deduction game with interactive storytelling | Python |
-| **[Math Solver Chatbot](https://github.com/CodeWithBotina/math-solver-chatbot)** | Web application for mathematical problem-solving through conversational UI | JavaScript, React |
+#### **Programming Languages**
+- **Python**: Advanced proficiency demonstrated through algorithmic implementations and game development
+- **JavaScript**: Full-stack web development with React ecosystem integration
+- **Java**: Object-oriented programming and enterprise application development
+- **C#**: .NET framework development and Windows application creation
 
----
+#### **Web Development Stack**
+- **Frontend**: React.js, HTML5, CSS3, responsive design principles
+- **Backend**: Node.js, RESTful API development
+- **Database Management**: MySQL for relational data, MongoDB for NoSQL solutions
+- **Version Control**: Git workflows and collaborative development practices
 
-### 📈 GitHub Analytics
-<div align="center">
-  
-![Profile Stats](https://github-readme-stats.vercel.app/api?username=CodeWithBotina&show_icons=true&theme=algolia&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithBotina&layout=compact&theme=algolia&hide_border=true)
-
-</div>
-
----
-
-### 🌟 Professional Vision
-- Build scalable commercial software solutions
-- Foster knowledge-sharing developer communities
-- Contribute to impactful open-source projects
-- Bridge theoretical concepts with practical implementation
+#### **Development Methodologies**
+- **Agile Development**: Iterative project management and continuous improvement
+- **Scrum Framework**: Sprint planning and team collaboration
+- **DevOps Practices**: Docker containerization for scalable deployments
 
 ---
 
-### 📮 Contact
-Connect with me through professional channels:
+### Professional Vision & Community Impact
 
-[![Email](https://img.shields.io/badge/-Email-0078D4?logo=microsoft-outlook&logoColor=white)](mailto:CodeWithBotina.team@outlook.com)
-[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@CodeWithBotina)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/codewithbotina/)
-[![TikTok](https://img.shields.io/badge/-TikTok-000000?logo=tiktok&logoColor=white)](https://www.tiktok.com/@codewithbotina)
+My approach to software development is rooted in the belief that "Software combines artistry and logic - there's always new horizons to explore and create." This philosophy drives my commitment to:
+
+**🏗️ Building Scalable Commercial Solutions**
+- Focus on creating robust, maintainable applications that solve real-world problems
+- Emphasis on performance optimization and user experience design
+- Implementation of best practices for code quality and documentation
+
+**👥 Fostering Developer Communities**
+- Active content creation through multiple social media channels (YouTube, Instagram, TikTok)
+- Knowledge sharing and educational content development
+- Mentoring and collaboration with fellow developers
+
+**🌐 Open Source Contribution**
+- Commitment to contributing meaningful projects to the open-source ecosystem
+- Documentation and code quality standards that benefit the broader developer community
+- Bridging the gap between academic concepts and practical implementations
 
 ---
 
-> "Software combines artistry and logic - there's always new horizons to explore and create."
+### Current Focus & Growth Areas
+
+- **Full-Stack Development Expansion**: Continuously improving expertise in modern web technologies and frameworks
+- **Scalable Architecture**: Learning advanced patterns for building enterprise-level applications
+- **Community Building**: Developing educational content and resources for fellow developers
+- **Commercial Solutions**: Creating market-ready applications with strong business value
+
+---
+
+### Professional Differentiators
+
+✅ **Bilingual Capability**: Native Spanish speaker with professional English proficiency
+✅ **Educational Content Creator**: Proven ability to explain complex concepts through multiple media channels
+✅ **Cross-Platform Experience**: Development experience across web, desktop, and game development
+✅ **Algorithm Implementation**: Strong foundation in computer science fundamentals and mathematical problem-solving
+✅ **Community Leadership**: Building and nurturing developer communities through content and collaboration
+
+---
+
+### Contact Information
+
+**Primary Contact**: CodeWithBotina.team@outlook.com
+**Professional Channels**: 
+- YouTube: @CodeWithBotina
+- Instagram: @codewithbotina  
+- TikTok: @codewithbotina
+- GitHub: CodeWithBotina
+
+---
+
+*Ready to contribute innovative solutions and technical expertise to challenging projects while continuing to build meaningful connections within the global developer community.*
