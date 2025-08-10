@@ -1,8 +1,6 @@
 # Diego Alejandro Botina
 ## Software Engineer | Commercial Developer | Technology Enthusiast
 
----
-
 ### Professional Summary
 
 I am Diego Alejandro Botina, a passionate Colombian software engineer with comprehensive technical training in computer systems and a proven track record of building innovative solutions across multiple programming paradigms. My expertise spans full-stack development, algorithm implementation, and interactive application design, with a strong focus on creating scalable commercial solutions while fostering collaborative developer communities.
@@ -15,24 +13,40 @@ Currently based in Colombia, I am expanding my expertise in full-stack developme
 
 #### **Featured Practical Projects**
 
-**🧮 Math Solver Chatbot** - *Commercial Application*
+**🏢 TaskForge - Enterprise Task Management System**
+- **Repository**: [TaskForge](https://github.com/CodeWithBotina/TaskForge)
+- **Technologies**: ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) ![JavaFX](https://img.shields.io/badge/-JavaFX-007396?logo=java&logoColor=white) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white) ![Maven](https://img.shields.io/badge/-Maven-C71A36?logo=apache-maven&logoColor=white)
+- **Business Impact**: Comprehensive desktop application for team collaboration and project management
+- **Key Features**: 
+  - Multi-user authentication with BCrypt security
+  - Team management with role-based access control
+  - Real-time notifications and task assignments
+  - Project organization with visibility controls (Public/Restricted/Private)
+  - Attachment management and commenting system
+- **Architecture**: Clean MVC pattern with DAO layer, service layer separation
+- **Commercial Viability**: Enterprise-ready solution with scalable database design and user management
+
+**🛒 JalaMart - E-Commerce Platform**
+- **Repository**: [JalaMart](https://github.com/CodeWithBotina/JalaMart)
+- **Technologies**: ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+- **Business Impact**: Full-stack e-commerce solution with modern web architecture
+- **Key Features**: Complete online shopping platform with user management, product catalog, and transaction processing
+- **Commercial Application**: Production-ready e-commerce platform suitable for retail businesses
+- **Technical Excellence**: Demonstrates full-stack development capabilities with modern frameworks
+
+**🧮 Math Solver Chatbot** - *Educational SaaS Platform*
 - **Repository**: [math-solver-chatbot](https://github.com/CodeWithBotina/math-solver-chatbot)
-- **Technologies**: ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-- **Business Impact**: Educational SaaS solution with conversational UI for mathematical problem-solving
+- **Technologies**: ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+- **Business Impact**: Interactive educational tool with conversational UI for mathematical problem-solving
 - **Key Features**: Real-time computation engine, responsive web design, scalable architecture
 - **Commercial Viability**: Ready-to-deploy educational platform with monetization potential
 
-**🎮 Game of Life Simulation** - *Algorithm Visualization*
+**🎮 Game of Life Simulation** - *Algorithm Visualization Platform*
 - **Repository**: [GameOfLife](https://github.com/CodeWithBotina/GameOfLife)
 - **Technologies**: ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![PyGame](https://img.shields.io/badge/-PyGame-00AA00?logo=python&logoColor=white)
 - **Practical Application**: Interactive simulation tool for educational institutions and research
 - **Key Features**: Real-time pattern visualization, performance optimization, configurable parameters
 - **Use Cases**: Educational tool for computer science curricula, research visualization platform
-
-**🏢 Enterprise Solutions Portfolio**
-- **Focus Areas**: Full-stack web applications, database management systems, API development
-- **Technologies**: ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-- **Commercial Applications**: Business process automation, customer management systems, data analytics platforms
 
 ---
 
