@@ -13,41 +13,48 @@ Currently based in Colombia, I am expanding my expertise in full-stack developme
 
 ### Technical Portfolio & Repository Analysis
 
-#### **Core Development Projects**
+#### **Featured Practical Projects**
 
-**🎮 Game of Life Implementation**
-- **Repository**: [GameOfLife](https://github.com/CodeWithBotina/GameOfLife)
-- **Technologies**: Python, PyGame
-- **Impact**: Demonstrates mastery of cellular automaton algorithms and complex pattern simulation
-- **Key Achievement**: Successfully implemented Conway's Game of Life, showcasing understanding of emergent systems and computational biology concepts
-
-**🕵️ El Secreto de la Mansión Oscura (Mansion Mystery)**
-- **Repository**: [El_Secreto_de_la_Mansion_Oscura](https://github.com/CodeWithBotina/El_Secreto_de_la_Mansion_Oscura)
-- **Technologies**: Python
-- **Impact**: Interactive text-based deduction game with complex storytelling mechanics
-- **Key Achievement**: Created an engaging narrative-driven application that demonstrates advanced programming logic and user interaction design
-
-**🧮 Math Solver Chatbot**
+**🧮 Math Solver Chatbot** - *Commercial Application*
 - **Repository**: [math-solver-chatbot](https://github.com/CodeWithBotina/math-solver-chatbot)
-- **Technologies**: JavaScript, React, Web Technologies
-- **Impact**: Educational tool providing mathematical problem-solving through conversational UI
-- **Key Achievement**: Successfully integrated mathematical computation with modern web frameworks, creating an accessible learning platform
+- **Technologies**: ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+- **Business Impact**: Educational SaaS solution with conversational UI for mathematical problem-solving
+- **Key Features**: Real-time computation engine, responsive web design, scalable architecture
+- **Commercial Viability**: Ready-to-deploy educational platform with monetization potential
+
+**🎮 Game of Life Simulation** - *Algorithm Visualization*
+- **Repository**: [GameOfLife](https://github.com/CodeWithBotina/GameOfLife)
+- **Technologies**: ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![PyGame](https://img.shields.io/badge/-PyGame-00AA00?logo=python&logoColor=white)
+- **Practical Application**: Interactive simulation tool for educational institutions and research
+- **Key Features**: Real-time pattern visualization, performance optimization, configurable parameters
+- **Use Cases**: Educational tool for computer science curricula, research visualization platform
+
+**🏢 Enterprise Solutions Portfolio**
+- **Focus Areas**: Full-stack web applications, database management systems, API development
+- **Technologies**: ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+- **Commercial Applications**: Business process automation, customer management systems, data analytics platforms
 
 ---
 
 ### Technical Expertise Matrix
 
 #### **Programming Languages**
-- **Python**: Advanced proficiency demonstrated through algorithmic implementations and game development
-- **JavaScript**: Full-stack web development with React ecosystem integration
-- **Java**: Object-oriented programming and enterprise application development
-- **C#**: .NET framework development and Windows application creation
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)
 
 #### **Web Development Stack**
-- **Frontend**: React.js, HTML5, CSS3, responsive design principles
-- **Backend**: Node.js, RESTful API development
-- **Database Management**: MySQL for relational data, MongoDB for NoSQL solutions
-- **Version Control**: Git workflows and collaborative development practices
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+
+#### **Databases & Tools**
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 
 #### **Development Methodologies**
 - **Agile Development**: Iterative project management and continuous improvement
