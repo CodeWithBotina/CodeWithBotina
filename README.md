@@ -2,64 +2,83 @@
   <img src="https://i.imgur.com/oxWXKSH.png" alt="CodeWithBotina Logo" width="250">
 </p>
 
-# ¡Hola, soy Diego Alejandro Botina! 👋  
-### Alias: **CodeWithBotina**  
-#### Ingeniero de Software | Desarrollador de Software Comercial | Apasionado por la Tecnología  
+<h1 align="center">Diego Alejandro Botina</h1>
+<h3 align="center">Software Engineer | Commercial Developer | Technology Enthusiast</h3>
 
 ---
 
-### 👨‍💻 Sobre mí  
-¡Hola! Soy **Diego Alejandro Botina**, un ingeniero de software colombiano con una carrera técnica en sistemas informáticos. Me apasiona el desarrollo de software y estoy emocionado de ser parte de este mundo tecnológico. Mi objetivo es crear soluciones innovadoras y construir una comunidad gigante alrededor del desarrollo de software.  
+### 👨‍💻 Professional Profile  
+Colombian software engineer with technical training in computer systems. Passionate about building innovative solutions and fostering developer communities. Committed to continuous learning and impactful project development.
 
-- 🌍 Soy de **Colombia**.  
-- � Actualmente estoy aprendiendo y mejorando mis habilidades en desarrollo de software.  
-- 🎯 Mi meta es contribuir a la comunidad de desarrolladores y crear proyectos que impacten positivamente.  
-
----
-
-### 🛠️ Tecnologías y Herramientas  
-Aquí están algunas de las tecnologías con las que trabajo o estoy aprendiendo:  
-
-- **Lenguajes de Programación**: JavaScript, Python, Java, C#  
-- **Desarrollo Web**: HTML, CSS, React, Node.js  
-- **Bases de Datos**: MySQL, MongoDB  
-- **Herramientas**: Git, GitHub, Visual Studio Code, Docker  
-- **Otros**: Scrum, Metodologías Ágiles  
+- 🌍 Based in **Colombia**  
+- 🔭 Currently expanding expertise in full-stack development  
+- 🚀 Focused on creating scalable commercial solutions  
+- 🌱 Building collaborative developer communities  
 
 ---
 
-### 🌱 Mis Primeros Proyectos   
+### 🛠️ Technical Expertise  
+#### Core Competencies  
+**Programming Languages**  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)
 
-- [GameOfLife](https://github.com/CodeWithBotina/GameOfLife) - El proyecto implementa el Juego de la Vida de Conway, un autómata celular ideado por el matemático británico John Horton Conway en 1970.  
-- [El_Secreto_de_la_Mansion_Oscura](https://github.com/CodeWithBotina/El_Secreto_de_la_Mansion_Oscura) - Juego de misterio y deducción desarrollado en Python.
-- [Math_Solver_ChatBot](https://github.com/CodeWithBotina/math-solver-chatbot) - Aplicación web interactiva diseñada para facilitar la resolución de problemas matemáticos a través de una interfaz de chatbot.
- 
+**Web Development**  
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
 
----
+**Databases & Tools**  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 
-### 📫 Contáctame  
-¡Me encantaría conectarme contigo! Puedes contactarme a través de:  
-
-- 📧 Email: [CodeWithBotina.team@outlook.com](mailto:CodeWithBotina.team@outlook.com)
-- 🌐 Instagram: [CodeWithBotina](https://www.instagram.com/codewithbotina/)
-- 🚀 Tiktok: [CodeWithBotina](https://www.tiktok.com/@codewithbotina)
-- 👨‍💻 Youtube: [CodeWithBotina](https://www.youtube.com/@CodeWithBotina)
-
----
-
-### 🚀 Mis Metas  
-- Crear una comunidad grande y colaborativa alrededor del desarrollo de software.  
-- Aprender y compartir conocimientos sobre las últimas tecnologías.  
-- Contribuir a proyectos de código abierto.  
-
----
-
-### ⭐ Estadísticas de GitHub  
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=CodeWithBotina&show_icons=true&theme=dark)  
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithBotina&layout=compact&theme=dark)  
+**Methodologies**  
+![Agile](https://img.shields.io/badge/-Agile-009688?logo=agile&logoColor=white)
+![Scrum](https://img.shields.io/badge/-Scrum-6DB33F?logo=scrum&logoColor=white)
 
 ---
 
-### 📌 Frase Motivadora  
-> "El software es una combinación de arte y lógica. ¡Siempre hay algo nuevo por aprender y crear!"  
+### 💻 Featured Projects
 
+| Project | Description | Technologies |
+|---------|-------------|--------------|
+| **[Game of Life](https://github.com/CodeWithBotina/GameOfLife)** | Conway's cellular automaton implementation demonstrating complex emergent patterns | Python, PyGame |
+| **[Mansion Mystery](https://github.com/CodeWithBotina/El_Secreto_de_la_Mansion_Oscura)** | Text-based deduction game with interactive storytelling | Python |
+| **[Math Solver Chatbot](https://github.com/CodeWithBotina/math-solver-chatbot)** | Web application for mathematical problem-solving through conversational UI | JavaScript, React |
+
+---
+
+### 📈 GitHub Analytics
+<div align="center">
+  
+![Profile Stats](https://github-readme-stats.vercel.app/api?username=CodeWithBotina&show_icons=true&theme=algolia&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithBotina&layout=compact&theme=algolia&hide_border=true)
+
+</div>
+
+---
+
+### 🌟 Professional Vision
+- Build scalable commercial software solutions
+- Foster knowledge-sharing developer communities
+- Contribute to impactful open-source projects
+- Bridge theoretical concepts with practical implementation
+
+---
+
+### 📮 Contact
+Connect with me through professional channels:
+
+[![Email](https://img.shields.io/badge/-Email-0078D4?logo=microsoft-outlook&logoColor=white)](mailto:CodeWithBotina.team@outlook.com)
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@CodeWithBotina)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/codewithbotina/)
+[![TikTok](https://img.shields.io/badge/-TikTok-000000?logo=tiktok&logoColor=white)](https://www.tiktok.com/@codewithbotina)
+
+---
+
+> "Software combines artistry and logic - there's always new horizons to explore and create."
