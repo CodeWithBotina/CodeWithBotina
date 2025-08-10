@@ -1,6 +1,8 @@
 # Diego Alejandro Botina
 ## Software Engineer | Commercial Developer | Technology Enthusiast
 
+---
+
 ### Professional Summary
 
 I am Diego Alejandro Botina, a passionate Colombian software engineer with comprehensive technical training in computer systems and a proven track record of building innovative solutions across multiple programming paradigms. My expertise spans full-stack development, algorithm implementation, and interactive application design, with a strong focus on creating scalable commercial solutions while fostering collaborative developer communities.
@@ -28,11 +30,11 @@ Currently based in Colombia, I am expanding my expertise in full-stack developme
 
 **🛒 JalaMart - E-Commerce Platform**
 - **Repository**: [JalaMart](https://github.com/CodeWithBotina/JalaMart)
-- **Technologies**: ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-- **Business Impact**: Full-stack e-commerce solution with modern web architecture
-- **Key Features**: Complete online shopping platform with user management, product catalog, and transaction processing
+- **Technologies**: ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+- **Business Impact**: Full-stack e-commerce web application with robust database architecture
+- **Key Features**: Complete online shopping platform with advanced database management using PLpgSQL
+- **Technical Excellence**: Demonstrates proficiency in Python backend development, PostgreSQL database design, and modern web frontend
 - **Commercial Application**: Production-ready e-commerce platform suitable for retail businesses
-- **Technical Excellence**: Demonstrates full-stack development capabilities with modern frameworks
 
 **🧮 Math Solver Chatbot** - *Educational SaaS Platform*
 - **Repository**: [math-solver-chatbot](https://github.com/CodeWithBotina/math-solver-chatbot)
