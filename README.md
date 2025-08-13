@@ -45,7 +45,7 @@ Currently based in Colombia, I am expanding my expertise in full-stack developme
 
 **🎮 Game of Life Simulation** - *Algorithm Visualization Platform*
 - **Repository**: [GameOfLife](https://github.com/CodeWithBotina/GameOfLife)
-- **Technologies**: ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![PyGame](https://img.shields.io/badge/-PyGame-00AA00?logo=python&logoColor=white)
+- **Technologies**: ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
 - **Practical Application**: Interactive simulation tool for educational institutions and research
 - **Key Features**: Real-time pattern visualization, performance optimization, configurable parameters
 - **Use Cases**: Educational tool for computer science curricula, research visualization platform
